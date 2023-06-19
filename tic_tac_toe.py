@@ -1,3 +1,5 @@
+# Tic Tac Toe Game
+# This program allows two players to play the classic Tic Tac Toe game on a graphical user interface (GUI).
 import random
 from tkinter import *
 
