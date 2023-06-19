@@ -1,4 +1,7 @@
 # File Name: interactive_image.py
+# This script implements an interactive image application using the tkinter library in Python.
+# It allows the user to drag and move a label on the window, control its movement using arrow keys,
+# display a digital clock that updates every second, and show an image on the window.
 
 from tkinter import *
 from time import *
