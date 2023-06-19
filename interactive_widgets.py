@@ -1,5 +1,20 @@
 # Filename: interactive_widgets.py
+'''
+This code demonstrates the use of interactive widgets in a Tkinter application.
+It includes various types of widgets such as a scale, listbox, color chooser, and text area.
 
+The scale widget allows you to select a numeric value within a specified range.
+The listbox widget displays a list of food items, and you can select multiple items.
+The submit button retrieves the selected food items from the listbox.
+
+The "Click me" button opens a color chooser dialog, allowing you to select a background color for the window.
+The selected color is applied to the background of the window.
+
+The text area widget provides a space to enter text, and the "Text Submit" button retrieves the entered text.
+
+Feel free to interact with the widgets and explore their functionality!
+
+'''
 from tkinter import *
 from tkinter import colorchooser
 
