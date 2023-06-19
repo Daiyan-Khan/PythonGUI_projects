@@ -1,4 +1,7 @@
 # snake_game.py
+# Snake Game
+# This code implements a classic Snake game using tkinter in Python. The player controls a snake that moves around the game board,
+# eating food and growing in length. The objective is to eat as much food as possible without colliding with the walls or the snake's own body.
 
 from tkinter import *
 import random
